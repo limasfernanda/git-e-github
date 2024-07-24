@@ -11,3 +11,11 @@ git branch
 ### Comando para voltar para outra branch
 
 git checkout [nome branch que quer voltar, master ou a nova]
+
+### Criando branch pelo github:
+1- Acessar repositório
+2- Ir na listagem das branchs
+3- Inserir nome da branch
+4- COnfirmar a criação
+
+Para excluir vai na sessão de listagem de branch e clica na lixeira ao lado
